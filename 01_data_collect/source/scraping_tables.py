@@ -19,7 +19,7 @@ alphabet
 # Link letters and numbers
 
 dict_tables = {}
-for letter, i in zip(alphabet, range(9,59, 7)) :
+for letter, i in zip(alphabet, range(12,62, 7)) :
     df = tablas_grupos[i]
     df.rename(columns={ df.columns[1]: 'Team'}, inplace=True)
     df.pop('Qualification')
