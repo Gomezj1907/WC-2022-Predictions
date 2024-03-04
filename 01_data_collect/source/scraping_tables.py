@@ -6,10 +6,10 @@ tablas_grupos = pd.read_html('https://web.archive.org/web/20221115040351/https:/
 len(tablas_grupos)
 
 # Cual es mi primera y ultima tabla (Van en patrones de 7)
-tablas_grupos[9]
-tablas_grupos[58]
+tablas_grupos[12]
+tablas_grupos[61]
 
-for i in range(9,59, 7): 
+for i in range(12,62, 7): 
 
     print(i)
 
