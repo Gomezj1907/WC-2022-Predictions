@@ -1,7 +1,7 @@
 import pandas as pd
 from string import ascii_uppercase as alphabet
 import pickle 
-tablas_grupos = pd.read_html('https://en.wikipedia.org/wiki/2022_FIFA_World_Cup')
+tablas_grupos = pd.read_html('https://web.archive.org/web/20221115040351/https://en.wikipedia.org/wiki/2022_FIFA_World_Cup')
 
 len(tablas_grupos)
 
