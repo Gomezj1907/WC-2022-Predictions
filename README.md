@@ -48,3 +48,12 @@ To install the dependencies, please follow these steps:
 pip install -r requirements.txt
 
 This command will install all the required Python libraries listed in the requirements.txt file. Make sure you have Python and pip installed on your system before executing this command.
+
+## Contributing
+
+Contributions to this project are welcome! If you have ideas for improvements, new features, or bug fixes, please feel free to open an issue or submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
+
+## License
+This project is licensed under the MIT License. You can find the full text of the license in the [LICENSE](LICENSE) file included in this repository. The MIT License is a permissive license that allows you to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software. It is provided "as is", without warranty of any kind, express or implied.
+
+By contributing to this project, you agree to license your contributions under the terms of the MIT License.
